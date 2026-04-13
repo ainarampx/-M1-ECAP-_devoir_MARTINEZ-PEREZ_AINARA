@@ -1,0 +1,20 @@
+# Enoncé
+
+En utilisant le jeu de données `supermarket_sales.csv`, vous devez réaliser un tableau de bord interactif 
+avec `Dash` qui permet d'analyser les ventes d'un supermarché.
+
+Vous choisirez deux (2) des indicateurs et trois (3) des graphiques présentés ci-dessous dans 
+votre tableau de bord. Chaque indicateur et graphique doit être interactif en fonction du **sexe** et de la **ville**. 
+
+## Indicateurs par sexe et par ville :
+
+- Montant total des achats : Somme du montant total des achats (Total)
+- Nombre total d'achats : Nombre total d'achats (Invoice ID)
+- Évaluation moyenne : Moyenne des évaluations (Rating)
+
+## Graphiques :
+
+- Histogramme donnant la répartition des montants totaux des achats par sexe et par ville.
+- Diagramme en barres du nombre total d'achats par sexe et par ville.
+- Diagramme circulaire montrant la répartition de la catégorie de produit (Product line) par sexe et par ville.
+- Evolution du montant total des achats par semaine par ville.

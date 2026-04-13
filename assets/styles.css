@@ -1,0 +1,55 @@
+body {
+  background: #f6f7fb;
+}
+
+.header {
+  background: #b9dbe7;
+  border: 2px solid #333;
+  padding: 10px 12px;
+  margin-top: 10px;
+  align-items: center;
+}
+
+.app-title {
+  font-weight: 700;
+  font-size: 28px;
+}
+
+.dd {
+  width: 100%;
+}
+
+.kpi-card {
+  border: 1px solid #ddd;
+  background: white;
+  border-radius: 10px;
+}
+
+.kpi-title {
+  color: #666;
+  font-size: 14px;
+  margin-bottom: 6px;
+}
+
+.kpi-value {
+  font-size: 44px;
+  font-weight: 800;
+  line-height: 1;
+}
+
+.kpi-subtitle {
+  color: #888;
+  font-size: 12px;
+  margin-top: 6px;
+}
+
+.panel-card {
+  border: 1px solid #ddd;
+  background: white;
+  border-radius: 10px;
+}
+
+.panel-title {
+  font-weight: 700;
+  margin-bottom: 8px;
+}

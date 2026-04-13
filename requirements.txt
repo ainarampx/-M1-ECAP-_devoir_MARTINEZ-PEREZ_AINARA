@@ -1,0 +1,11 @@
+dash==2.18.2
+plotly==5.24.1
+pandas==2.2.3
+numpy==1.26.4
+statsmodels==0.14.4
+geopandas==0.12.1 
+dash-auth==2.0.0
+dash-bootstrap-components==1.6.0
+dash-bootstrap-templates==1.1.2
+pandas-datareader==0.10.0
+gunicorn==23.0.0
